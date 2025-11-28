@@ -126,7 +126,9 @@ Models evaluated across:
 - **Extreme-weather evaluation shows ML models outperform statistical models**
 
 ---
+## 📥 Data Access
 
+Large raw NOAA files is not stored in this repo due to GitHub’s 100 MB limit.  
 
 ---
 
