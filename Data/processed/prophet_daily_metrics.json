@@ -1,0 +1,8 @@
+{
+  "model": "Prophet (yearly+weekly additive)",
+  "resample": "D",
+  "test_start": "2024-01-01",
+  "mae": 1396.4519136099798,
+  "rmse": 1825.3584256034662,
+  "mape": 7.625287418085323
+}
